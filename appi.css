@@ -1,0 +1,50 @@
+.Header{
+  color: #55A5E8;
+  font-family: Baufra;
+  font-size: 50px;
+  text-align: center;
+  padding: "5px";
+}
+
+
+.bodyy{
+  background-color: white;
+  width: 100vw;
+  height: 100vh;
+
+}
+
+.imgsz{
+  text-align: center;
+  color: orange;
+  font-size: 35px;
+
+}
+
+.textt{
+  padding-left: 50px;
+  color: orange;
+}
+
+.lorem{
+  text-align: center;
+  background-color: rgba(128, 128, 128, 0.6);
+  border: 1px solid black;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin: auto;
+  width: 40%;
+  height: 35%;
+
+
+}
+
+.center {
+  padding: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  height: 25%;
+}
